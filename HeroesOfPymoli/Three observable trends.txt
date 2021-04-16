@@ -1,0 +1,12 @@
+Three observable trends based on the data
+
+1) 84% of players are male; there may be a difference based on gender that causes
+males to enjoy more a videogame.
+
+2) The average total purchase per person is higher in females.
+
+3) 45% of players are between 20 and 24 years old.  
+This may have to do in part with the population curve of high consuming countries, 
+but there is probably another more significant explanation, like for example, purchasing power.  
+The amount of money available for games may be higher when a person finishes school and still does not have
+responsabilities.
